@@ -106,6 +106,5 @@ public class test {
         // func26
 //        list.reverseInRange(3, 7);
 //        list.traverse();
-
     }
 }
